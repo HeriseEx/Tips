@@ -1,0 +1,32 @@
+
+Tab	缩进	Emmet插件，能快速生成代码，其他插件可能也行吧，没试过。这个键，真的很实用！！！
+Ctrl+P	Goto Anything，快速定位到文件/行/function/文本等	真是perfect的功能，要把每个文件名字都记清楚了。
+Ctrl+Shift+P	打开命令面板	这个，这个，我用不起，还在想，怎么恢复过来呢。 昨天都还可以用的。
+Ctrl+G	跳转到某行	也可以Ctrl+P，输入框中输入 :+lineNum；
+Ctrl+/	注释整行	 
+Ctrl+Shift+/	注释已选择内容	 
+Ctrl+L	选择整行(按住-继续选择下行)	 
+Ctrl+K+K	从光标处删除至行尾	 
+Ctrl+K+Backspace	从光标处删至行首	 
+Ctrl+Shift+K	删除整行	
+Ctrl+Shift+D	复制光标所在整行，并将其插入在该行之前	 
+Ctrl+Y	恢复撤销	只知道Ctrl+Z，这个也很有用滴.
+Ctrl+Shift+V	粘贴并自动缩进	比Ctrl+V来得有效，当需要格式化代码的时候。
+Ctrl+Shift+A	选择光标位置父标签内的内容	比如，如下代码，光标在<nav>后边，那么就选中整个ul标签啦：
+Ctrl+Shift+[	折叠代码	折叠嘛，联合Ctrl+Shift+A真的好用，- -！也可以直接用鼠标操作。
+Ctrl+Shift+]	展开代码	 
+Ctrl+K+J	展开所有	当然也有折叠所有咯，自己看看Edit->Code Foding
+Ctrl+Shift+Up	与上行互换	 
+Ctrl+Shift+Down	与下行互换	 
+Ctrl+Enter	行前插入一行	 
+Ctrl+Shift+Enter	行后插入一行	 
+Ctrl+J	合并行	直接使用，后边一行就会合并到当前行来；也可选择要合并的内容，一次性到位。
+Alt+.	闭合当前标签	自从使用Emmet后，我就没用过它了. 
+Ctrl+K+U	改为大写	编写HTML代码的时候还没怎么用上呀. 下面都是我不经常用的啦...但还是可留待查询使用。
+Ctrl+K+L 	改为小写	 
+Ctrl+D	选词 （按住-继续选择下个相同的字符串）	 
+Ctrl+M	光标移动至括号开始或结束的位置	 
+Ctrl+Shift+M	选择括号内的内容（按住-继续选择父括号）	 
+Ctrl+U	软撤销	 
+Ctrl+T	词互换	 
+Ctrl+F/Esc	查找/Esc退出查找
